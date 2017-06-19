@@ -32,7 +32,7 @@ Additional options for cookie:
     expires:<number, date>,
     path: <string>,
     domain: <string>,
-    secure: <boolen>
+    secure: <boolean>
 }
 ```
 ### Get cookie by name
